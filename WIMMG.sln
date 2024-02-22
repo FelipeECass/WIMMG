@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIMMG", "WIMMG\WIMMG.csproj", "{7A865A3A-D4C7-4829-9F37-87CA1150E3A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WIMMG", "WIMMG\WIMMG.csproj", "{7A865A3A-D4C7-4829-9F37-87CA1150E3A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIMMG.Client", "WIMMG.Client\WIMMG.Client.csproj", "{4F15ABDA-33E4-47ED-97C9-4413F00BE4D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WIMMG.Client", "WIMMG.Client\WIMMG.Client.csproj", "{4F15ABDA-33E4-47ED-97C9-4413F00BE4D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parser", "Parser\Parser.csproj", "{DC1D90E1-C310-47E7-B810-4B1BC486FCAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4F15ABDA-33E4-47ED-97C9-4413F00BE4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F15ABDA-33E4-47ED-97C9-4413F00BE4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F15ABDA-33E4-47ED-97C9-4413F00BE4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1D90E1-C310-47E7-B810-4B1BC486FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1D90E1-C310-47E7-B810-4B1BC486FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1D90E1-C310-47E7-B810-4B1BC486FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1D90E1-C310-47E7-B810-4B1BC486FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
