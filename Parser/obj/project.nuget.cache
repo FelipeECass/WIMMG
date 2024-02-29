@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VqIMsyG+n0WJorsUVwiqHZoVGlF6kjMmsuin53Dc/LE12d/X9H/RZEuzwtpdVrZe3okMuOmc0uRGlmqZw7ylZg==",
+  "dgSpecHash": "L6XtauwwhXL9IVukOMVIIjxsOwaxBU/HUZvSpKHGzOkW1MqS5BAI7tFNx2ASFFu1/T8HrRUBmnEcdWzwyGqeFg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\WIMMG\\Parser\\Parser.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,9 @@
     "C:\\Users\\CamBroBr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\CamBroBr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\CamBroBr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\CamBroBr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\CamBroBr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\CamBroBr\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\CamBroBr\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

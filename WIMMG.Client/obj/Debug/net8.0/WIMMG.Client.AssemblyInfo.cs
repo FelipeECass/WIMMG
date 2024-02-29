@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WIMMG.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc9e13e8e42d290f7e0751c01b19b41abbbee07a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+191df59f8618dd48ecd3e93f54f272458d8c70e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WIMMG.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WIMMG.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
